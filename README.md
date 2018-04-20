@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Steven Walter
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The assignment was to use an API to allow access for our program to use the TMDB database, which gives our program access to movie data, and allows it to be returned to the program once its called for. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://slw16c.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. AJAX is exchanging data with a server, and updates part of the web page, without reloading the whole page.
+2. The TMDB API gives access to a lot of movie data.
+3. API key is a cose passed by computer programs, and are used to track and control how the API is being use
